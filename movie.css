@@ -1,0 +1,40 @@
+body{
+	background-image: url("img/background.png");
+	background-repeat: repeat, repeat;
+	font-family: Verdana, Tahoma, Open san;
+	font-size: 8pt;
+}
+
+.midbanner{
+	width: 100%;
+	height: 50px;
+	background-image: url("img/bannerbg.png");
+	background-position: center;
+	text-align: center;
+}
+
+.leftpane{
+	width: 550px;
+	
+}
+
+h1{
+	font-size: 24pt;
+	font-stretch: bold;
+	font-family: Tahoma, Verdana, Open san;
+	text-shadow: 3px 3px #999999;
+	text-align: center;
+}
+
+.overallcontentborder{
+	border: 4px grey solid;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 20px;
+}
+
+.rightbanner{
+	float: right;
+	margin: 0 0 1em 1em;
+}
