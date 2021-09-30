@@ -91,12 +91,13 @@ aside {
 }
 
 .section {
-  background-image: url("/assets/images/tmnt/rbg.png");
+  background-image: url("img/rbg.png");
 }
 
 .section span {
   color: red;
   font-size: 3rem;
+  font-stretch: bold;
 }
 
 .maincontent {
